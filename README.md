@@ -1,2 +1,2 @@
 # hello-world
-this is the first repository to text gitub functions
+this is the first repository to test github functions
